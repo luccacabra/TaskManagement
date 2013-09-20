@@ -4,9 +4,11 @@ pyflakes==0.7.2
 flake8==2.0
 hacking>=0.5.3,<0.6
 
+celery
 coverage
 distribute>=0.6.24
 mock>=1.0
+mox
 nose
 nose-exclude
 openstack.nose_plugin>=0.7
